@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello World!</title>
+<title>Hello, this is Devops Training batch 2</title>
 </head>
 <body>
 	<h1>Hello World!</h1>
